@@ -351,7 +351,7 @@ class NeuralNetwork(object):
 # hidden_nodes = 25
 # output_nodes = 1
 
-# 27: Didn't do well. Many negative predictions. Passed Project Assistant
+# 27: Best in my opinion! Passed Project Assistant
 iterations = 3750
 learning_rate = 0.525
 hidden_nodes = 25
