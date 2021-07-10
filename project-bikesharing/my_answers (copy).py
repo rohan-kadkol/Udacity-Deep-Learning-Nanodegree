@@ -197,10 +197,10 @@ class NeuralNetwork(object):
 # output_nodes = 1
 
 # Done extremely well!!!
-iterations = 7000
-learning_rate = 0.5
-hidden_nodes = 10
-output_nodes = 1
+# iterations = 7000
+# learning_rate = 0.5
+# hidden_nodes = 10
+# output_nodes = 1
 
 # Done extremely well!!! Also, slighly less overfitting! But more mistakes
 # iterations = 7000
@@ -229,9 +229,9 @@ output_nodes = 1
 # hidden_nodes = 2
 # output_nodes = 1
 
-# # 7: Majority predictions are negative. Not good.
-# # Progress: 100.0% ... Training loss: 2.553 ... Validation loss: 4.140
-# iterations = 7000
-# learning_rate = 0.8
-# hidden_nodes = 3
-# output_nodes = 1
+# 7: Majority predictions are negative. Not good.
+# Progress: 100.0% ... Training loss: 2.553 ... Validation loss: 4.140
+iterations = 7000
+learning_rate = 0.8
+hidden_nodes = 3
+output_nodes = 1
