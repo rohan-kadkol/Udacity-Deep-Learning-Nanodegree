@@ -196,11 +196,11 @@ class NeuralNetwork(object):
 # hidden_nodes = 30
 # output_nodes = 1
 
-# Done extremely well!!!
-iterations = 7000
-learning_rate = 0.5
-hidden_nodes = 10
-output_nodes = 1
+# # Done extremely well!!!
+# iterations = 7000
+# learning_rate = 0.5
+# hidden_nodes = 10
+# output_nodes = 1
 
 # Done extremely well!!! Also, slighly less overfitting! But more mistakes
 # iterations = 7000
@@ -235,3 +235,124 @@ output_nodes = 1
 # learning_rate = 0.8
 # hidden_nodes = 3
 # output_nodes = 1
+
+# # 8: Done extremely well!!!
+# iterations = 500
+# learning_rate = 0.8
+# hidden_nodes = 10
+# output_nodes = 1
+
+# # 9: Trial: Worked!
+# # Progress: 100.0% ... Training loss: 7.176 ... Validation loss: 9.415
+# iterations = 5000
+# learning_rate = 0.5
+# hidden_nodes = 20
+# output_nodes = 1
+
+# # 10: Outstanding! Passed Project Assistant
+# iterations = 4000
+# learning_rate = 0.6
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 11: Outstanding, even better than #10! Passed Project Assistant
+# iterations = 3000
+# learning_rate = 0.5
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 12: Didn't do too well. Didn't pass Project Assistant
+# iterations = 2000
+# learning_rate = 0.55
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 13: Didn't do too well. Passed Project Assistant
+# iterations = 3000
+# learning_rate = 0.5
+# hidden_nodes = 20
+# output_nodes = 1
+
+# # 14: Didn't converge
+# iterations = 4000
+# learning_rate = 0.7
+# hidden_nodes = 30
+# output_nodes = 1
+
+# # 15: Didn't converge
+# iterations = 4000
+# learning_rate = 0.60
+# hidden_nodes = 30
+# output_nodes = 1
+
+# # 16: Didn't converge
+# iterations = 4000
+# learning_rate = 0.50
+# hidden_nodes = 30
+# output_nodes = 1
+
+# # 17: Didn't do too well. Too noisy curve. Passed Project Assistant
+# iterations = 4000
+# learning_rate = 0.4
+# hidden_nodes = 30
+# output_nodes = 1
+
+# # 18: Majority were negative predictions. Pass Project Assistant
+# iterations = 10000
+# learning_rate = 0.5
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 19: Did well! Passed Project Assistant! But might be slightly overfit
+# iterations = 4000
+# learning_rate = 0.45
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 20: A few outliers. Still okay, but slightly underfit. Didn't pass Project Assistant.
+# iterations = 3000
+# learning_rate = 0.45
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 21: Okay but a few large outliers. Didn't pass Project Assistant.
+# iterations = 3000
+# learning_rate = 0.525
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 22: Not too good. A few large outliers. Didn't pass Project Assistant.
+# iterations = 3000
+# learning_rate = 0.475
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 23: Outstanding! Very low range! Passed Project Assistant
+# iterations = 4000
+# learning_rate = 0.5
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 24: Good, but slightly larger range than #23. Passed Project Assistant
+# iterations = 5000
+# learning_rate = 0.5
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 25: Phenomenal! Extremely low range (only 2)! Passed Project Assistant
+# iterations = 4000
+# learning_rate = 0.525
+# hidden_nodes = 25
+# output_nodes = 1
+
+# # 26: Didn't do well. Many negative predictions. Passed Project Assistant
+# iterations = 4250
+# learning_rate = 0.525
+# hidden_nodes = 25
+# output_nodes = 1
+
+# 27: Didn't do well. Many negative predictions. Passed Project Assistant
+iterations = 3750
+learning_rate = 0.525
+hidden_nodes = 25
+output_nodes = 1
